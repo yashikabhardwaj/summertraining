@@ -1,0 +1,15 @@
+QUESTION:1 what is google summer of code?
+solution:Google Summer of Code (GSoC) is a global program that matches students up with open source, free software and technology-related
+organizations to write code and get paid to do it!
+The organizations provide mentors who act as guides through the entire process, from learning about the community to contributing code. 
+The idea is to get students involved in and familiar with the open source community and help them to put their summer break to good use.
+
+QUESTION:2 Run application from terminal but it should not run from icon(GUI)?
+solution: first go to /usr/bin/bashrc alter the code by using alias command  (alias firefox='firefoxs') 
+
+QUESTION:3 How to Write Hello World in a Directory?
+solution:
+ 
+QUESTION:4 Read about RAM?
+solution: Random Access Memory, or RAM is the physical hardware inside a computer that temporarily stores data,serving as the computer's "working" memory. Additional RAM allows a computer to work with more information at the same time. 
+RAM has 2 types - 1. SRAM(static random access memory) 2. DRAM(dynamic access random memory).
