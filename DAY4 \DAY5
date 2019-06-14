@@ -14,7 +14,7 @@ Grant the user administrator permissions.
 QUESTION:4:- How to remove read and write permission from a file or directory for root or admin user?
 solutions-chmod u-rw /directory or file name
 QUESTION:5:- List how many people are in a group find that list?
-solutions- https://www.cyberciti.biz/faq/linux-list-all-members-of-a-group/
+solutions- lid GROUPNAME
 QUESTION:6:- How to add multiple users in a group at once?
 solutions- addmultiuseringroup.py
 QUESTION:7:- How more than one user can write in same file?
